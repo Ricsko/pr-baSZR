@@ -1,4 +1,6 @@
 # pr-baSZR
 .s
 gángnám sztájl
-asdsa
+asdsaval
+
+valami
